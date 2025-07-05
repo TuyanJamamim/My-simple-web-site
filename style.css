@@ -1,5 +1,7 @@
 div{
     background-color: aquamarine;
+    background-image: url('image/img.webp');
+
 }
 *{
     margin: 10px;
